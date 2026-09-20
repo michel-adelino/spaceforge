@@ -1,0 +1,7 @@
+services:
+  web:
+    build: { context: ., target: web }
+    ports: ['8080:80']
+  ws:
+    build: { context: ., target: ws }
+    ports: ['8081:8080']
