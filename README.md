@@ -178,12 +178,7 @@ docker compose up                                   # web on :8080, relay on :80
 ## Browsers
 
 Needs WebGL2 or WebGL; without it the 2D editor still works and the 3D pane explains why it is unavailable.
-Developed and smoke-tested in Chromium.
-
-## Development notes
-
-Built with the help of an AI assistant (Claude). I reviewed and run the code, and I keep extending it.
-
+Developed and smoke-tested in Chromium. 
 ## License
 
 [MIT](LICENSE)
